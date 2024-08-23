@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hilma Lindskog</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 700px;
+            margin: auto;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 2.5rem;
+            font-weight: bold;
+        }
+        h1 span {
+            font-weight: normal;
+        }
+        p {
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1><strong>Hilma</strong> Lindskog</h1>
+    <p>Hi!</p>
+    <p>
+        I am a PhD candidate at the Department of Political Science since 2022.
+    </p>
+    <p>
+        My dissertation focuses on the influence of education on political attitudes and lies at the intersection of political sociology and political economy. I investigate this topic through both processes that occur during education and through processes involved in the transition to the labor market.
+    </p>
+    <p>
+        A second research interest of mine concerns how voters act and express themselves politically based on their social environment. In this area, I study how the behaviors and attitudes of voters supporting radical right parties relate to the degree of social acceptance for these parties. I primarily work with quantitative methods.
+    </p>
+</body>
+</html>
