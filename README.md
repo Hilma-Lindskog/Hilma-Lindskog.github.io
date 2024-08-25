@@ -1,9 +1,6 @@
-# h1 Heading
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
+<h1 style="font-size: 48px; font-weight: bold;">[Hilma Lindskog]</h1>
+
+Hi!
 
 I am a PhD candidate at the Department of Political Science since 2022.
 
