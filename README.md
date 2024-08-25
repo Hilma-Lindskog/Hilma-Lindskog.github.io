@@ -18,7 +18,8 @@ quantitative methods.
 ## Publications
 
 ### Articles
-- **Generational differences in disguise? A longitudinal study of the liberalising effect of education on socio-cultural attitudes**  
+- **Generational differences in disguise? A longitudinal study of the liberalising effect of
+  education on socio-cultural attitudes**  
   _Hilma Lindskog, Maria Oskarson_  
   West European Politics - 2023  
   [https://www.tandfonline.com/doi/full/10.1080/01402382.2022.2076963](https://www.tandfonline.com/doi/full/10.1080/01402382.2022.2076963)
