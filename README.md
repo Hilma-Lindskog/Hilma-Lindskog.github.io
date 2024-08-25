@@ -25,7 +25,7 @@ quantitative methods.
 - **The Voter Next Door: Stigma Effects on Advance Voting for Radical Right Parties**  
   _Hilma Lindskog, Stefan Dahlberg, Richard Öhrvall, Henrik Oscarsson_  
   Political Studies - 2023  
-  [https://gup.ub.gu.se/publication/332514](https://journals.sagepub.com/doi/10.1177/00323217231216305](#)
+  [https://journals.sagepub.com/doi/10.1177/00323217231216305](#)
 
 - **Politisk opinion – en fråga om ålder och generation?**  
   _Hilma Lindskog, Maria Solevid_  
